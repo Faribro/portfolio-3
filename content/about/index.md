@@ -4,9 +4,9 @@ avatar: 'me.jpg'
 skills:
   - Coding
   - Reading
-  - Painting
-  - Crafting
   - Problem Solving
+  - IOT
+  - AI
   - Team Management
   - Mentoring
 ---
