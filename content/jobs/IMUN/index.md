@@ -1,13 +1,17 @@
 ---
 date: '2021-06-11'
-title: 'Campus Ambassador Intern'
-company: 'International MUN (IMUN)'
+title: 'Account Receivable Analyst'
+company: 'Omega Healthcare'
 location: remote
-range: 'June 2021 - July 2021'
-url: 'https://www.internationalmun.org/'
+range: 'February 2021 - August 2021'
+url: 'https://www.omegahms.com/'
 ---
 
-- Promoted IMUN Online Conferences in different schools/universities and got 10+ registrations.
-- Informed how MUNs enhance - Negotiation, Diplomacy, Leadership, etc.
-- Achieved Brand Ambassador title for increasing the sales of the organization by 10% and creating brand presence.
-- View [OFFER LETTER](https://drive.google.com/file/d/1q-rr54_-9znx-m1PvEDTYkbu5yGy0miK/view?usp=sharing)
+- Maintaining the billing system.
+- Generating invoices and account statements.
+- Performing account reconciliations.
+- Maintaining accounts receivable files and records.
+- Producing monthly financial and management reports.
+- Investigating and resolving any irregularities or enquiries.
+- Assisting in general financial management and analysis.
+- View [OFFER LETTER](https://drive.google.com/file/d/1Eb7pqChJyHKCUK_ZTcsAmIjrc8rTNMNu/view?usp=sharing)
