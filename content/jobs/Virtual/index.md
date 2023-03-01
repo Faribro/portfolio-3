@@ -3,7 +3,7 @@ date: '2023-02-20'
 title: 'CERTIFICATIONS'
 company: 'Languages, Frameworks  and Virtual Internship'
 location: remote
-range: 'July 2020 - May 2021'
+range: 'July 2022 - Current'
 url: 'https://www.linkedin.com/in/farid-sayyed/details/certifications/'
 ---
 
