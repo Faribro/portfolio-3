@@ -1,6 +1,6 @@
 ---
 date: '2022-02-25'
-title: 'Alumni'
+title: 'Full Stack Development Internship'
 company: 'Newton School'
 location: remote
 range: 'March 2022 - Present'
