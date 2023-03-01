@@ -1,14 +1,19 @@
 ---
-date: '2020-07-01'
-title: 'Virtual Internship Experience'
-company: 'Forage'
+date: '2023-02-20'
+title: 'CERTIFICATIONS'
+company: 'Languages, Frameworks  and Virtual Internship'
 location: remote
 range: 'July 2020 - May 2021'
-url: 'https://www.theforage.com/'
+url: 'https://www.linkedin.com/in/farid-sayyed/details/certifications/'
 ---
 
-- Microsoft - Engineering Virtual Experience [CERTIFICATE](https://insidesherpa.s3.amazonaws.com/completion-certificates/Microsoft/ms2CK9b2SCWGXwPMS_Microsoft_nXPiDeZbPmvKvvjHA_completion_certificate.pdf)
-- Deloitte - Technology Consulting Virtual Internship [CERTIFICATE](https://insidesherpa.s3.amazonaws.com/completion-certificates/Deloitte/FqFtWwQzNxJ8Qsh5H_Deloitte_nXPiDeZbPmvKvvjHA_completion_certificate.pdf)
-- JPMorgan Chase & Co. Software Engineering Virtual Experience [CERTIFICATE](https://insidesherpa.s3.amazonaws.com/completion-certificates/JP%20Morgan/R5iK7HMxJGBgaSbvk_JPMorgan%20Chase_nXPiDeZbPmvKvvjHA_completion_certificate.pdf)
-- KPMG - Data Analytics Consulting Virtual Internship [CERTIFICATE](https://insidesherpa.s3.amazonaws.com/completion-certificates/KPMG/m7W4GMqeT3bh9Nb2c_KPMG_nXPiDeZbPmvKvvjHA_completion_certificate.pdf)
-- Y Combinator Virtual Experience [CERTIFICATE](https://drive.google.com/file/d/1btrRl7BWopLhOWudEI1RTOSl7qsCl-yS/view)
+- FreeCodeCamp - Responsive Web Design [CERTIFICATE](https://www.freecodecamp.org/certification/Faribro/responsive-web-design)
+- FreeCodeCamp - JavaScript Data Structures and Algorithms [CERTIFICATE](https://www.freecodecamp.org/certification/Faribro/javascript-algorithms-and-data-structures)
+- Simplilearn  - Full Stack Java Development [CERTIFICATE]()
+- HackerRank   - Java [CERTIFICATE](https://www.hackerrank.com/certificates/26a1eaed4fa3)
+- HackerRank   - JavaScript [CERTIFICATE](https://www.hackerrank.com/certificates/13b2c83a6261)
+- DataCamp     - Python [CERTIFICATE](https://www.datacamp.com/statement-of-accomplishment/course/040f2d9bd285b20061843d85d2f804ebaa225e6f?raw=1)
+- DataCamp     - SQL [CERTIFICATE](https://www.datacamp.com/statement-of-accomplishment/course/2bdb39822b0fea8e1887e15849fcb3c6f8d07849?raw=1)
+- LinkedIn     - JavaScript[CERTIFICATE](https://www.hackerrank.com/certificates/13b2c83a6261)
+- LinkedIn     - CSS [CERTIFICATE](https://www.linkedin.com/learning/certificates/e7d398baa37ee2d83a98b44f534e9a0a3c517f4b65762b9786949c382b9024c6?trk=share_certificate)
+- JPMorgan Chase & Co. Software Engineering Virtual Experience [CERTIFICATE]()
