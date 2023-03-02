@@ -4,7 +4,7 @@ module.exports = {
     'Farid Sayyed is an incoming Software Developer, based in India, who loves learning new things and helping tech beginners.',
   siteKeywords:
     'Farid Sayyed, Farid, Sayyed, Farid Sayyed, software engineer, web developer, javascript, python, java, svvv, indore',
-  siteUrl: 'https://yashitanamdeo.github.io/',
+  siteUrl: 'https://github.com/Faribro',
   siteLanguage: 'en_US',
   googleAnalyticsID: 'UA-45666519-2',
   googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
