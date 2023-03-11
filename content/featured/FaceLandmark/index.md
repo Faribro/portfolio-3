@@ -1,12 +1,15 @@
 ---
 date: '4'
-title: 'AI Face Landmark Detection'
+title: 'PLANT DISEASE CLASSIFICATION'
 cover: 'face-landmark.png'
-github: 'https://github.com/yashitanamdeo/face-landmark-detection'
-external: 'https://yashitanamdeo.github.io/face-landmark-detection/'
+github: 'https://github.com/Faribro/Project-ML/'
+external: 'https://project-1cwvlmfna-faribro.vercel.app/'
 tech:
   - TensorFlow.JS
   - React
+  - React Native
+  - Fast Api
+  - Google Clouds
 showInProjects: true
 ---
 
