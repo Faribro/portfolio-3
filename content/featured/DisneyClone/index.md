@@ -1,17 +1,23 @@
 ---
 date: '2'
-title: 'Disney+ Clone'
+title: 'REALTOR'
 cover: './disneyclone.png'
-github: 'https://github.com/yashitanamdeo/Disney-plus-Clone'
-external: 'https://disney-clone-83e44.web.app/'
+github: 'https://github.com/Faribro/real_estate'
+external: 'https://real-estate-eta-flame.vercel.app/'
 tech:
   - ReactJS
   - Redux
-  - Styled Components
+  - Chakra UI
+  - Node
+  - Express
+  - Static Generation
+  - Server Side Rendering
   - Firebase
 showInProjects: true
 ---
 
-Built Disney+ Clone with React JS with Google account's Sign in feature. Styled to get 15+ movies made by Disney; clickable images to get details of the specific movie.
+A real estate application where users can explore, search, buy
+and rent properties and also search properties by filter.
+• Technologies : Reactjs, Nextjs, static generation, server side rendering,
+ChakraUI, Node, Express, Rapid API.
 
-Inspired by Clever Programmer's [Youtube Channel](https://www.youtube.com/channel/UCqrILQNl5Ed9Dz6CGMyvMTQ).
